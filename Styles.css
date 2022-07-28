@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica;
+  background-color: rgb(216, 216, 244);
+  color: black;
+}
+h1 {
+  color: white;
+}
+a {
+  color: #ff0000;
+}
+div {
+  color: black;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+header {
+  background-color: #ff0000;
+  padding-top: 1px;
+}
+.photo {
+  border: solid black 7px;
+  margin-bottom: 7px;
+}
+section {
+  margin-left: 5px;
+}
